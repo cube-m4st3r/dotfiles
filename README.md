@@ -13,7 +13,7 @@
     <td>Alacritty</a></td>
   <tr>
   <tr>
-    <td><b>WM</b></td>
-    <td>Awesome</a></td>
+    <td><b>Prompt</b></td>
+    <td>Starship</a></td>
   <tr>
 </table>
